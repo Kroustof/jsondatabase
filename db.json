@@ -15,7 +15,7 @@
       "category1": "manga",
       "category2": "shonen",
       "category3": "one piece",
-      "total": 20
+      "total_items": 20
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
       "category1": "roman",
       "category2": "fantasy",
       "category3": "naruto",
-      "total": 1
+      "total_items": 1
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
       "category1": "comic",
       "category2": "superhero",
       "category3": "one piece",
-      "total": 4
+      "total_items": 4
     },
     {
       "id": 4,
@@ -51,7 +51,7 @@
       "category1": "manga",
       "category2": "seinen",
       "category3": "conan",
-      "total": 12
+      "total_items": 12
     },
     {
       "id": 5,
@@ -63,7 +63,7 @@
       "category1": "comic",
       "category2": "detective",
       "category3": "one piece",
-      "total": 8
+      "total_items": 8
     },
     {
       "id": 6,
@@ -75,7 +75,7 @@
       "category1": "roman",
       "category2": "polar",
       "category3": "one piece",
-      "total": 3
+      "total_items": 3
     }
   ],
   "profile": {
