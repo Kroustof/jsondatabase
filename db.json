@@ -14,7 +14,8 @@
       "token_address": "0x98FFaE1342dD87e95046fF0537a47463Ff164707",
       "category1": "manga",
       "category2": "shonen",
-      "category3": "one piece"
+      "category3": "one piece",
+      "total": 20
     },
     {
       "id": 2,
@@ -25,7 +26,8 @@
       "token_address": "0xcdac6AB5BdF14B89e1208fD171dC83e179cAAEdd",
       "category1": "roman",
       "category2": "fantasy",
-      "category3": "naruto"
+      "category3": "naruto",
+      "total": 1
     },
     {
       "id": 3,
@@ -36,7 +38,8 @@
       "token_address": "0x1C97Ad730BED8d35bb6A930C2d7Ba3C3F3153DA7",
       "category1": "comic",
       "category2": "superhero",
-      "category3": "one piece"
+      "category3": "one piece",
+      "total": 4
     },
     {
       "id": 4,
@@ -47,7 +50,8 @@
       "token_address": "0x9e67FD76F7b6F07881A42705350D9fF67E353Bd0",
       "category1": "manga",
       "category2": "seinen",
-      "category3": "conan"
+      "category3": "conan",
+      "total": 12
     },
     {
       "id": 5,
@@ -58,7 +62,8 @@
       "token_address": "0xe2c3088e10917Af2Cf2911295e4dd4964d4E7360",
       "category1": "comic",
       "category2": "detective",
-      "category3": "one piece"
+      "category3": "one piece",
+      "total": 8
     },
     {
       "id": 6,
@@ -69,7 +74,8 @@
       "token_address": "0xFdbD480c0B600Fbf816c2Ba2fF1EdE223969d186",
       "category1": "roman",
       "category2": "polar",
-      "category3": "one piece"
+      "category3": "one piece",
+      "total": 3
     }
   ],
   "profile": {
